@@ -8,7 +8,7 @@
 *点击下方卡片或链接，直接跳转至对应资源*
 
 ### 1. 🏠 项目官方主页 (Official Website)
-* **地址：** [https://www.yourdomain.com](https://www.yourdomain.com)
+* **地址：** [shafatv.com](https://www.yourdomain.com)
 * **描述：** 获取最新动态、详细介绍与可视化展示。
 
 ### 2. 💻 核心代码仓库 (Main Source Code)
