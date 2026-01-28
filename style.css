@@ -47,14 +47,18 @@ p {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background-color: #24292e;
-    color: #fff;
+    background-color: #24292e; /* GitHub经典黑 */
+    color: #ffffff;
     font-size: 18px;
-    padding: 12px 30px;
-    border-radius: 8px;
+    padding: 14px 36px; /* 加大内边距，按钮更饱满 */
+    border-radius: 10px; /* 圆润圆角，更柔和 */
     text-decoration: none;
-    font-weight: 500;
-    transition: background-color 0.3s ease;
+    font-weight: 600; /* 字体加粗，更醒目 */
+    border: none; /* 去掉默认边框 */
+    cursor: pointer; /* 鼠标悬浮显示手型 */
+    box-shadow: 0 4px 12px rgba(36, 41, 46, 0.3); /* 立体阴影，有层次感 */
+    transition: all 0.3s ease-in-out; /* 所有效果统一过渡，更丝滑 */
+    gap: 12px; /* 图标和文字间距，替代原margin-right，更灵活 */
 }
 
 /* 按钮内GitHub图标：右侧间距 */
@@ -65,7 +69,10 @@ p {
 
 /* 鼠标悬浮按钮：背景加深，有交互效果 */
 .github-btn:hover {
-    background-color: #000;
+    background: linear-gradient(135deg, #24292e 0%, #000000 100%); /* 黑到纯黑渐变 */
+    transform: translateY(-3px) scale(1.05); /* 上移3px+放大5%，动态感 */
+    box-shadow: 0 6px 20px rgba(36, 41, 46, 0.4); /* 阴影加深，更立体 */
+    color: #ffffff; /* 保证文字不变色 */
 }
 
 /* 小屏幕适配：缩小内边距，适配手机 */
