@@ -4,6 +4,7 @@
 
 ---
 
+([https://raw.githubusercontent.com/zhangsan/my-project/main/images/demo.png](https://github.com/lingxiaoge899-ux/YC-SFTV/edit/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260128154053_134_1.png))
 ## 🌟 核心站点导航
 *点击下方卡片或链接，直接跳转至对应资源*
 
