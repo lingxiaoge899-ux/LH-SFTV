@@ -1,5 +1,4 @@
-# 🚀<img width="180" height="180" alt="微信图片_20260128154053_134_1" src="https://github.com/user-attachments/assets/87181c06-a524-4c99-8351-07491bb89768" />
- [沙发TV]
+# 🚀 [沙发TV]
 
 > 窝进沙发，好戏开场。
 
